@@ -16,4 +16,7 @@ Please refer to the `LICENSE` file for full details.
 If you find any typos or issues in the book, feel free to open an issue in this repository. Your feedback is greatly appreciated!  
 
 ## Acknowledgments  
-Thank you to everyone, especially my students, who provided me with their feedback. I hope you find the book insightful and enjoyable!  
+Thank you to everyone, especially my students, who provided me with their feedback. I hope you find the book insightful and enjoyable! 
+
+## What's New?
+Some emailed me about typos and issues in the textbook. I really appreciate your interest and passion. I decided to leave the reproducible LaTeX file here so students can continuously develop their own version and add notes. You'll need to install some LaTex packages, I'm sure you'll manage it.
